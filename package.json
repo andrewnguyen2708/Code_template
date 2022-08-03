@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "5.8.4",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "6.3.0"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.9.1/docs/data/material/customization/dark-mode/ToggleColorMode.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "name": "setup-theme-with-darkmode-mui-v5",
+  "keywords": []
+}
